@@ -1,0 +1,17 @@
+# Core Framework
+fastapi==0.115.6
+uvicorn[standard]==0.34.0
+pydantic==2.10.4
+
+# Google APIs
+google-analytics-data==0.18.15
+google-auth==2.37.0
+google-auth-oauthlib==1.2.1
+gspread==6.1.4
+
+# LLM Client
+openai==1.59.3
+
+# Utilities
+python-dotenv==1.0.1
+httpx==0.28.1
